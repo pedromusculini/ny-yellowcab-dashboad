@@ -27,7 +27,6 @@ build/
 
 # Outputs
 *.html
-*.png
 *.jpg
 *.jpeg
 
