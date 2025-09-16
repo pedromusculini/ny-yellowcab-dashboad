@@ -1,6 +1,8 @@
-# ![NYC Taxi Logo](nyc_taxi_logo.png)
-
 # NYC Yellow Taxi Interactive Dashboard & Geospatial Analysis
+
+<p align="center">
+  <img src="nyc_taxi_logo.png" alt="NYC Taxi Logo" width="120" />
+</p>
 
 ## Project Objective
 - Provide an interactive dashboard for NYC Yellow Cab official data (Parquet format, 2023-2024), with borough-level analytics, trip metrics, and tip (gorjeta) statistics.
@@ -20,19 +22,27 @@
 ## Example Dashboard Output
 
 ### Main Dashboard
-![Dashboard Main](docs/dashboard_main.png)
+<p align="center">
+  <img src="docs/dashboard_main.png" alt="Dashboard Main" width="700" />
+</p>
 *Main dashboard view with sidebar filters and trip/tip metrics.*
 
 ### Tips Distribution
-![Tips Histogram](docs/tips_histogram.png)
+<p align="center">
+  <img src="docs/tips_histogram.png" alt="Tips Histogram" width="700" />
+</p>
 *Histogram showing the distribution of tip values for selected period/sample.*
 
 ### Interactive Map by Borough
-![Map Boroughs](docs/map_boroughs.png)
+<p align="center">
+  <img src="docs/map_boroughs.png" alt="Map Boroughs" width="700" />
+</p>
 *Interactive map of NYC boroughs with pickup locations.*
 
 ### Metrics by Borough Table
-![Borough Table](docs/borough_table.png)
+<p align="center">
+  <img src="docs/borough_table.png" alt="Borough Table" width="700" />
+</p>
 *Table with trip count and revenue per borough.*
 
 ## How to Run
