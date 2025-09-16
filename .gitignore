@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+*.sqlite3
+*.db
+
+# Jupyter/Streamlit
+.ipynb_checkpoints/
+.env
+.venv/
+.envrc
+.DS_Store
+.vscode/
+
+# Data
+*.parquet
+*.csv
+*.geojson
+
+# Outputs
+*.html
+*.png
+*.jpg
+*.jpeg
+
+# Streamlit
+.streamlit/

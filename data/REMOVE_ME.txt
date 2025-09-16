@@ -1,0 +1,1 @@
+Remover todos os arquivos CSV e GeoJSON que não sejam oficiais do NYC Taxi ou lookup/zone. Manter apenas os arquivos Parquet oficiais, taxi_zone_lookup.csv e nyc_boroughs.geojson.
